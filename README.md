@@ -28,7 +28,7 @@ time platanus gap_close -o Poil -t 2 -c Poil_scaffold.fa -IP1 trimed_fastq/R1_pe
 ```
 
 ## Исходные данные
-![](img/Снимок экрана 2021-10-24 в 22.29.51.png)
+![](img/pic00001.png)
 ![](img/Снимок экрана 2021-10-24 в 22.30.04.png)
 
 
