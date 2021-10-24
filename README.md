@@ -29,8 +29,12 @@ time platanus gap_close -o Poil -t 2 -c Poil_scaffold.fa -IP1 trimed_fastq/R1_pe
 
 ## Исходные данные
 ![](img/pic00001.png)
-![](img/Снимок экрана 2021-10-24 в 22.30.04.png)
-
+![](img/pic00004.png)
+Полный файл по ссылке https://github.com/SvMixa/hse21_hw1/blob/64c78879dcd967642837f3d82fc1f730f5659691/multiqc_report_before.html
 
 ## После обрезания
+![](img/pic00002.png)
+![](img/pic00003.png)
+Полный файл по ссылке https://github.com/SvMixa/hse21_hw1/blob/64c78879dcd967642837f3d82fc1f730f5659691/multiqc_report_after.html
 
+## Пост обработка была выполнена в google colab https://colab.research.google.com/drive/1mNH64uq1nCOzRZn8J3xfU6coUs4y7Ih0#scrollTo=WUgVQ73YlSCh
