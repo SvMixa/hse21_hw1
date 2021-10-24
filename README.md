@@ -40,3 +40,4 @@ time platanus gap_close -o Poil -t 2 -c Poil_scaffold.fa -IP1 trimed_fastq/R1_pe
 
 ### Пост обработка была выполнена в google colab 
 https://colab.research.google.com/drive/1mNH64uq1nCOzRZn8J3xfU6coUs4y7Ih0#scrollTo=WUgVQ73YlSCh
+![](img/oic5.png)
